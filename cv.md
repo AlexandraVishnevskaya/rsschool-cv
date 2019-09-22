@@ -21,5 +21,34 @@ Speaking of personal qualities, I’d like to point out following. I am able to 
 * HTML/CSS/JavaScript (basic)  
 * Git (basic)
 
+## CODE EXAMPLES
+
+```javascript
+elem.onclick = function() {
+    alert('Please, fill in all fields');
+  };
+
+```
+
+## EDUCATION
+
+* **codeacademy.com:**  
+    * Introduction to HTML  
+    * Learn CSS  
+
+* **htmlacademy.ru**  
+    * HTML basics  
+    * CSS basics  
+
+* **learnjavasript.ru**  
+
+* "JavaScript: The Definitive Guide" by David David Flanagan  
+
+* Rolling Scopes Youtube channel  
+
+## ENGLISH
+
+I was practising at university mostly, but I had some interaction with English speakers either. I think my English level is B1, also I passed the test at EPAM’s web-site and it shows that my skills are adequate to B1.  
+
 
 
